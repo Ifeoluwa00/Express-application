@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "organization": "nodry",
+        "createdAt": "2021-08-08T11:12:26.325Z",
+        "updatedAt": "2021-08-08T11:12:26.325Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 2,
+        "organization": "nodry",
+        "createdAt": "2021-08-08T11:12:40.539Z",
+        "updatedAt": "2021-08-08T11:12:40.539Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 3,
+        "organization": "nodry",
+        "createdAt": "2021-08-08T12:00:41.960Z",
+        "updatedAt": "2021-08-08T12:00:41.960Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 4,
+        "organization": "33",
+        "createdAt": "2021-08-08T12:00:44.466Z",
+        "updatedAt": "2021-08-08T12:06:44.817Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 6,
+        "organization": "nodry",
+        "createdAt": "2021-08-08T12:00:45.964Z",
+        "updatedAt": "2021-08-08T12:00:45.964Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 7,
+        "organization": "nodry",
+        "createdAt": "2021-08-08T12:00:46.808Z",
+        "updatedAt": "2021-08-08T12:00:46.808Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 8,
+        "organization": "tdyeeewe",
+        "createdAt": "2021-08-08T12:01:02.175Z",
+        "updatedAt": "2021-08-08T12:01:02.175Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 9,
+        "organization": "tdyeeewe",
+        "createdAt": "2021-08-08T12:05:40.068Z",
+        "updatedAt": "2021-08-08T12:05:40.068Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    },
+    {
+        "id": 10,
+        "organization": "tdyeeewe",
+        "createdAt": "2021-08-08T12:05:49.005Z",
+        "updatedAt": "2021-08-08T12:05:49.005Z",
+        "products": [
+            "developers",
+            "pizza"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan"
+        ]
+    }
+]
