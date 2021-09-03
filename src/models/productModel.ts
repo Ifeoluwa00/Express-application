@@ -34,7 +34,6 @@ function create(product: UserObj): Promise<UserObj> {
   }
   const newProduct = {id:uniid(), ...product}
   products.push(newProduct)
-  // console.log(path.resolve('.', './databaseFolder/product.json'))
   writeDataToFile('./database/product.json', products)
   resolve(newProduct)
  })
@@ -82,3 +81,4 @@ export = {
  remove
  //removeAll
 }
+

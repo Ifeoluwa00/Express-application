@@ -1,5 +1,5 @@
 import Product from "../models/productModel"
-import { IncomingMessage, ServerResponse } from "http";
+// import { IncomingMessage, ServerResponse } from "http";
 import { getPostData, UserObj } from "../utils"
 import { Request, Response } from 'express';
 //@desc Get All Product

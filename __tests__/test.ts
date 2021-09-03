@@ -1,5 +1,5 @@
-const request = require("supertest");
-const app = require("../dist/app");
+import request from "supertest";
+import  app from  "../src/app";
 
 describe("All Routes", () => {
   test("it should post a data", (done) => {
@@ -36,7 +36,7 @@ describe("All Routes", () => {
       .get("/products/9")
       .expect(200)
       .then((res) => {
-        expect(res.body && res.body.id).toEqual(9);
+        expect(res.body && res.body.id).toEqual(10);
         done();
       });
   });
@@ -56,14 +56,14 @@ describe("All Routes", () => {
       })
       .expect(200)
       .then((res) => {
-        expect(res.body && res.body.id).toEqual(9);
+        expect(res.body && res.body.id).toEqual(10);
         done();
       });
   });
 
   test("it should delete a data", (done) => {
     request(app)
-      .delete("/products/8")
+      .delete("/products/7")
       .send({
         organization: "node ninja",
         products: ["developers", "pizza"],
@@ -77,7 +77,7 @@ describe("All Routes", () => {
       .expect(200)
       .then((res) => {
         console.log(res.body);
-        expect(res.body && res.body.message).toEqual("Product 8 removed");
+        expect(res.body && res.body.message).toEqual("Product 7 removed");
         done();
       });
   });
